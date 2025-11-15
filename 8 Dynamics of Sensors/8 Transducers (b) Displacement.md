@@ -89,7 +89,7 @@ Acting as a secondary transducer, it can be used for force, weight and pressure 
 
 
 # Output Graph / Tabulation
-![Untitled](https://github.com/user-attachments/assets/a13cd4f5-e46e-41f4-8ebc-fad5085ef9bf)
+![WhatsApp Image 2025-11-15 at 07 04 30_1a50b5f3](https://github.com/user-attachments/assets/eca1dfee-0187-4150-b9a0-f7d78c6291de)
 
 
 
