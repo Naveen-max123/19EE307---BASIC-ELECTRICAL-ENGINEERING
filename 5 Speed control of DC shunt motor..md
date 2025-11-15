@@ -50,11 +50,10 @@ To study the speed control of D.C. Shunt motor by armature control method. Draw 
 ![WhatsApp Image 2025-11-15 at 06 41 06_8ccf7140](https://github.com/user-attachments/assets/7c84a1e7-d95f-4bda-bcc5-68454df9be18)
 
 
-![Untitled](https://github.com/user-attachments/assets/284d7e08-184b-4baf-95e1-32faa001fc93)
-
-# Result
-![Untitled](https://github.com/user-attachments/assets/5bcfed3f-b9d9-4650-9b63-911e0dec3064)
+![WhatsApp Image 2025-11-15 at 06 39 53_c7bf2054](https://github.com/user-attachments/assets/ddab4794-1573-476c-933a-c3947d8ca6ac)
 
 
 # Result
-![Untitled](https://github.com/user-attachments/assets/5bcfed3f-b9d9-4650-9b63-911e0dec3064)
+Thus the speed control of dc shunt motor is optained using aramature and field control method.
+
+
