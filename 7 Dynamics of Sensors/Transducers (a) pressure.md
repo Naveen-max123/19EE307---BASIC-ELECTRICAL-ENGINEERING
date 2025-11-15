@@ -116,9 +116,6 @@ Effect of ambient conditions
 
 # Output Graph / Tabulation
 
-![Untitled](https://github.com/user-attachments/assets/adf3ab9d-350b-4e5e-a06a-d324647c4928)
-![Untitled](https://github.com/user-attachments/assets/1d3da65d-9e30-45a3-91d9-e71b0d3ba21c)
-![Untitled](https://github.com/user-attachments/assets/92265b25-0b52-445c-bd1b-95ae26393f96)
 
 # Result
 The working principle of strain gauge using straingauge simulator is studied.
