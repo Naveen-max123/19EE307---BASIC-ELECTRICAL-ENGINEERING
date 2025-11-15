@@ -1,5 +1,5 @@
 ## Exp. No. 6
-**Date:**  
+**Date:** 29/09/2025 
 
 ## Speed Control of slip-ring Induction motor
 
